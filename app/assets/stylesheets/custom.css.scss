@@ -17,7 +17,7 @@ $navbar-default-bg: #303133;
     height:400px;
 }
 
-.jumbotron h1, h2, h3, h4 {
+.jumbotron h1, h3, h4 {
     color: white;
 }
 
@@ -42,5 +42,13 @@ $navbar-default-bg: #303133;
 
 .btn-xlarge:hover {
     background-color: gray;
+}
+
+.footer {
+    background-color: #efefef;
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
 }
 
