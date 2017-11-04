@@ -1,5 +1,12 @@
 {
-  "name": "myrecipes",
+  "name": "testing",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bbparis/myrecipes.git",
+  "author": "BB <bb2005@gmail.com>",
+  "license": "MIT"
 }
